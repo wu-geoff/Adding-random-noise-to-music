@@ -30,7 +30,7 @@ To put a long story short, even though it was *technically* feasible to add a bu
 
 This weird experiment of mine won't be possible without the help of the following:
  - [Generating White Noise in Python: A Step-by-Step Guide](https://www.brownnoiseradio.com/resources/generating-white-noise-in-python%3A-a-step-by-step-guide) by Brown Noise Radio
- - Google's AI overview on the matter
+ - [Google's AI overview on the matter](https://www.google.com/search?q=adding+random+noise+to+mp3+in+python)
 
 ## License
 

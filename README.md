@@ -7,7 +7,7 @@ A Python script for adding random noises to a MP3 file, using a [CSPRNG](https:/
 `python3 add_noise_to_music.py <path to MP3 file>`
 
 ## Dependencies 
- - Python3+
+ - Python 3.6 or above
  - [numpy](https://numpy.org/)
  - [pydub](https://www.pydub.com/) 
      - Note: pydub will requrie either [ffmpeg](https://ffmpeg.org/) or [libav](http://libav.org/) to work with MP3 files; I personally chose ffmpeg.
